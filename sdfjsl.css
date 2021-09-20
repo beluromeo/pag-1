@@ -1,0 +1,43 @@
+body{
+    color:rgb(255, 71, 230);
+    background-color: rgb(253, 255, 152);
+
+    font: s-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+    
+    div{
+        
+        font-size: x-large;
+        font-weight: 50;
+        color: white;
+        text-align: center;
+
+    }
+   h1
+   {
+       font-family: -apple-system, blinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+       color: blue;
+   }
+   h2
+   {
+       font-family: -apple-system, blinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+       color: blue;
+   }
+   h3
+   {
+       font-family: -apple-system, blinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+       color: rgb(212, 0, 255);
+   }
+   h4
+   {
+       font-family: -apple-system, blinkMacSystemFont, 'Segoe UI', Roboto, Oxygen;
+       color: rgb(212, 0, 255);
+   }
+   .derecha
+   {
+       text-align: right;
+   }
+   .izquierda
+
